@@ -5,6 +5,6 @@ int main(){
 		int i=5;
 		printf("%x\n",&i);
 	}
-	printf("%x\n",&i);
+	printf("%xRaj\n",&i);
 return 0;
 }
